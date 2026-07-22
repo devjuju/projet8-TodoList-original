@@ -1,4 +1,4 @@
-# Configuration Symfony
+# 03 ⚙️ Configuration Symfony
 
 ## Base de données
 

@@ -1,6 +1,6 @@
-# Docker - Projet original
+# 01 🐳 Mise en place de l'environnement Docker
 
-## Objectif
+## 🎯 Objectif
 
 Permettre l'exécution du projet Symfony 3.1 dans un environnement isolé.
 
