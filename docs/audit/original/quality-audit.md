@@ -155,3 +155,9 @@ Les principaux travaux identifiés sont :
 - renforcement des contrôles d'accès ;
 - mise en place d'une stratégie de tests automatisés ;
 - amélioration de la documentation technique.
+
+## Utilisation de cet audit
+
+Cet audit constitue l'état initial de l'application.
+
+Il servira de référence pour comparer les résultats obtenus après les améliorations réalisées sur le projet ToDo & Co (migration Symfony 3.4, sécurisation, tests automatisés et documentation).
